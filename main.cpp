@@ -1,7 +1,5 @@
-#include <stdio.h>
+#include "aula.h"
 
-int main()
-{
-    printf("Hello World");
-    return 0;
-}
+BOMDIA
+    FALA("Ola mundo")
+ATE_LOGO
