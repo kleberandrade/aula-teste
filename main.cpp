@@ -1,5 +1,5 @@
 #include "aula.h"
 
-BOMDIA
+BOM_DIA
     FALA("Ola mundo")
 ATE_LOGO
